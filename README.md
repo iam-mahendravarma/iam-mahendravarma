@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mahendravarma.sa@gmail.com**
 
-- ⚡ Fun fact **I am Extrovert**
+- ⚡ Fun fact **I am Extra Extrovert**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahendravarma-a-83a731211](https://www.linkedin.com/in/mahendravarma-a-83a731211/)
 
