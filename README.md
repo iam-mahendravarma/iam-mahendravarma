@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Kubernetes-Tasks][(https://github.com/iam-mahendravarma/kubernetes-tasks.git)]
+- 🔭 I’m currently working on [DevOps-Project-06-Kubernetes-Deployment]([https://github.com/iam-mahendravarma/MCP-XGeneOps.git](https://github.com/iam-mahendravarma/DevOps-Project-06-Kubernetes-Deployment.git))
 
 - 🌱 I’m currently learning **Kubernetes**
 
